@@ -1,0 +1,8 @@
+.nuxt
+dist
+build/*
+!build/icons
+node_modules
+
+# Project exclude paths
+/server/
